@@ -8,6 +8,7 @@ weather_info|get the historical weather from Dark Sky for a given GPS coordinate
 Google_Maps_Time_Zone_API|return the time zone and time offset for a given GPS coordinates and a timestamp
 geopandas_spatial_join|assign vehicle activity points to correct census tracts; plotting a complete trip over tracts
 generate_road_network|generate Michigan road network
+trip_dashboard|rudimentary dashboard for a trip including speed, yawrate using Bokeh (unfortunately Bokeh plots don't render on Github) with linked brushing
 
 # BSM Documentation
 It's currently at this github site: https://github.com/caocscar/ConnectedVehicleDocs
